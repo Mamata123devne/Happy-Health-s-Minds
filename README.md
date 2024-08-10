@@ -1,6 +1,5 @@
-# Happy-Health-s-Minds
-*Happy Heaths Mind*
-Overview
+# Happy-Healths-Minds
+# Overview
 Happy Heaths Mind is an Android application designed to promote mental well-being by providing users with tools and resources for maintaining a healthy mind. The app includes features such as meditation guides, mood tracking, mental health tips, and more.
 
 Features
